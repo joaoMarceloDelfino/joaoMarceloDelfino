@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👨‍💻 João Marcelo de Oliveira Delfino
-Computer Science Student • Full Stack Web Developer Intern • Portonave S/A
+Computer Science Student • Junior Full Stack Developer • Portonave S/A
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-de-oliveira-delfino-25721030a/">
@@ -15,7 +15,7 @@ Computer Science Student • Full Stack Web Developer Intern • Portonave S/A
 
 ## 🚀 About Me
 
-I'm João Marcelo, a computer science student and full stack web developement intern at Portonave S/A, where I help build and maintain web applications that support port operations and logistics.
+I'm João Marcelo, a computer science student and junior full stack developer at Portonave S/A, where I help build and maintain web applications that support port operations and logistics.
 I love solving problems with code, contributing to the software development community, learning new technologies, and building things that make repetitive things easier. 
 Whether it's crafting clean front-end interfaces or designing efficient back-end systems.
 
